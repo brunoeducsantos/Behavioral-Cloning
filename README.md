@@ -10,14 +10,14 @@ Image data and steering angles to train a neural network and then use this model
 
 [//]: # (Image References)
 
-[image1]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/architecture.jpg  "Model Visualization"
-[image2]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/gray_scale.png "Grayscaling"
-[image3]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/crossing_1.jpg "Recovery Image"
-[image4]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/crossing_2.jpg "Recovery Image"
-[image6]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/crossing_3.jpg "Recovery Image"
-[image5]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/initia_image.png "Normal Image"
-[image7]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/flip.png "Flipped Image"
-[image8]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/tree/master/images/crop2.png "Crop image"
+[image1]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/architecture.jpg "Model Visualization"
+[image2]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/ray_scale.png "Grayscaling"
+[image3]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/crossing_1.jpg "Recovery Image"
+[image4]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/crossing_2.jpg "Recovery Image"
+[image6]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/crossing_3.jpg "Recovery Image"
+[image5]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/initia_image.png "Normal Image"
+[image7]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/flip.png "Flipped Image"
+[image8]: https://github.com/BrunoEduardoCSantos/Behavioral-Cloning/blob/master/images/crop2.png "Crop image"
 
 
 ## Project files 

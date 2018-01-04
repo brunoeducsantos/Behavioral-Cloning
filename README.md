@@ -1,7 +1,7 @@
 # Behaviorial Cloning Project
 
 ## Overview
----
+
 This repository contains starting files for the Behavioral Cloning Project.
 
 In this project, a deep neural networks and convolutional neural networks will be used to clone driving behavior. It will be trained, validated and tested a model using Keras. The model will output a steering angle to an autonomous vehicle.
@@ -106,3 +106,7 @@ In addition, to improving training performance I a crop and resize image to 64X6
 I finally randomly shuffled the data set and put 20% of the data into a validation set. 
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 1 as evidenced by the fast decreasing of mean squared error of both training and validation dataset. I used an adam optimizer so that manually training the learning rate wasn't necessary.
+
+# Disclamer
+
+This project was cloned from [Udacity Behavioral Cloning project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) in the context of [Self-Driving Carnanodegree](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
